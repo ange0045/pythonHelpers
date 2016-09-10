@@ -2,7 +2,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-FILENAME:       CurrencyExchangeSMS.py
+FILENAME:       currencyExchangeSMS.py
 DESCRIPTION:    Through the use of openexchangerates api this code checks the current exchange rate and last week's value. 
                 Provides the difference, and a specific converted amount and sends an SMS with Twilio every day. 
                 Review openexchangerates documentation for list of currencies. 
