@@ -1,2 +1,2 @@
 # pythonHelpers
-Short python scripts used to automate activities
+Short python scripts used to automate activities and make life easier. 
